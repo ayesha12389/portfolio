@@ -57,7 +57,7 @@
   transition: all 0.3s ease;
   position: relative;
   z-index: 1;
-  background: linear-gradient(145deg, #6c63ff, #a29bfe);
+  background: linear-gradient(145deg, #00e6e6, #a2f5f5);
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   transform-style: preserve-3d;
   perspective: 1000px;

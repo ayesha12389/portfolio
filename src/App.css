@@ -25,38 +25,43 @@ body {
 .icon-background i {
   position: absolute;
   font-size: 40px;
-  opacity: 0.5;
-  color: #11e6d4;
+  opacity: 1;
+  /* color: #11e6d4; */
   animation: floatIcons 15s linear infinite;
 }
 
 .icon-background i:nth-child(1) {
   left: 10%;
   top: 20%;
+  color: #ff6b6b; /* red-pink */
   animation-delay: 0s;
 }
 
 .icon-background i:nth-child(2) {
   left: 80%;
   top: 30%;
+  color: #0ec9f8; /* blue */
   animation-delay: 2s;
 }
 
 .icon-background i:nth-child(3) {
   left: 40%;
   top: 70%;
+  color: #f1c513; /* yellow */
   animation-delay: 4s;
 }
 
 .icon-background i:nth-child(4) {
   left: 25%;
   top: 50%;
+  color: #00e676; /* green */
   animation-delay: 6s;
 }
 
 .icon-background i:nth-child(5) {
   left: 65%;
   top: 10%;
+  color: #cc0f67; /* purple */
   animation-delay: 8s;
 }
 
@@ -104,7 +109,7 @@ h1, h2 {
 
 /* Links */
 a {
-  color: #89cff0;
+  color: #00e6e6;
   text-decoration: none;
 }
 
